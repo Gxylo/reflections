@@ -5,3 +5,7 @@ a local repository for version control cun have on my computer and so to make co
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 in the area of concentration up only files are prepared and those already working area on commit repository.
+
+How you can use the test area to make sure it has one committed by logical change?
+
+to know what the files that have been modified and add them to commit
