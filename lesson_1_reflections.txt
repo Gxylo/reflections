@@ -1,0 +1,13 @@
+—>Which was not VisualICE the new or the old file.
+
+—>Pros is that I can do every time time I make a change .
+Contrast is that I can forget to do the commit at any time.
+
+—>Because the files are highly related to each other and need to save all the files together. It is also necessary because it can update one or more files.
+
+—>first do a git log to see all commit and so see what were the changes during the project. once identified commit check, run a git diff with different IDs to see which lines were modified.
+
+—>review each version to make sure it works properly and then do the commit.
+
+—>to try to edit the files with sublime and update them commit.
+
