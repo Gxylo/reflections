@@ -17,3 +17,7 @@ When new features that were not foreseen initially added.
 How diagrams help visualize the structure of the branches?
 
 The diagrams help visualize the branches of an easy way to understand how the behavior of each of them, to root are connected and what their behavior.
+
+--Add new reflections 
+
+I'm testing the own way as adding new branches and merge ...
