@@ -22,6 +22,10 @@ What is the result of merging two branches together? Why do we represent in the 
 
 the two branches merge and combine the two functions by adding new features and removing some unnecessary.
 
+What are the pros and cons of automatic merging of Git vs. mergers always doing it manually?
+
+Manuel fusion is better because some files are not updated automatically and you must always check that is what is going to merge. The automatic fusion is very good siepre as the files are well known to merge.
+
 --Add new reflections 
 
 I'm testing the own way as adding new branches and merge ...
