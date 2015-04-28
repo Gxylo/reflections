@@ -13,3 +13,7 @@ to know what the files that have been modified and add them to commit
 What are some situations where branches would be useful to keep your records organized? How to help the branches?
 
 When new features that were not foreseen initially added.
+
+How diagrams help visualize the structure of the branches?
+
+The diagrams help visualize the branches of an easy way to understand how the behavior of each of them, to root are connected and what their behavior.
