@@ -21,3 +21,5 @@ The diagrams help visualize the branches of an easy way to understand how the be
 --Add new reflections 
 
 I'm testing the own way as adding new branches and merge ...
+
+The branches help me to add new functionality ami project to work independently and to merge end
