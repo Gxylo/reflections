@@ -2,3 +2,9 @@ When would you want to use a remote repository rather than keeping all your work
 
 When working as a team with participants who are beyond our reach, it is a good choice for work on the project.
 It helps to have a backup in the cloud Github our project.
+
+Why might you want to always pull changes manually rather than having Git automatically 
+stay up-to-date with your remote repository?
+
+It is better to pull the changes manually because there may be some unnecessary changes within
+the repository Github.
