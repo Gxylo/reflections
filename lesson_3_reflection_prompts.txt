@@ -8,3 +8,9 @@ stay up-to-date with your remote repository?
 
 It is better to pull the changes manually because there may be some unnecessary changes within
 the repository Github.
+
+Describe the Differences between forks, clones, and branches. When would you use one INSTEAD OF another?
+
+Forks are used to participate in improving the code from a repository that is public, if the owner authorizes changes are added.
+Clones are used to use the code that is free to make modifications as required individually.
+Branches are used to add different functionalities in a project to work them individually, for the fuse end and have complete project.
